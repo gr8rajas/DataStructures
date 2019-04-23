@@ -1,0 +1,24 @@
+###### Binary Tree ##############
+A binary tree is made of nodes, where each node contains a "left" reference, a "right" reference, 
+and a data element. The topmost node in the tree is called the root. 
+
+A complete Binary tree is a binary tree which has left and right children, with exception at bottom level.
+A full binary tree.is a binary tree in which each node has exactly zero or two children. 
+
+-----Advantages of trees
+Trees reflect structural relationships in the data
+Trees are used to represent hierarchies
+Trees provide an efficient insertion and searching 
+
+*****Traversal****
+A traversal is a process that visits all the nodes in the tree.
+Traversal Algorithms are two kinds
+DFS
+BFS
+
+There are three different types of depth-first traversals, :
+    PreOrder traversal - visit the parent first and then left and right children;
+    InOrder traversal - visit the left child, then the parent and the right child;
+    PostOrder traversal - visit left child, then the right child and then the parent; 
+    
+BFS is top to bottom and from left to right
